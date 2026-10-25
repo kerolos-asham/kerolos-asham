@@ -35,9 +35,7 @@ I'm passionate about data analysis, discovering insights, and using technology t
   <a href="https://www.mysql.com/">
     <img src="https://skillicons.dev/icons?i=mysql" height="45" alt="MySQL"/>
   </a>
-  <a href="https://git-scm.com/">
-    <img src="https://skillicons.dev/icons?i=git" height="45" alt="Git"/>
-  </a>
+  
   <a href="https://github.com/">
     <img src="https://skillicons.dev/icons?i=github" height="45" alt="GitHub"/>
   </a>
